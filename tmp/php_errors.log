@@ -1,0 +1,58 @@
+[17-Jul-2023 12:46:23 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\backend\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\backend\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\backend\index.php on line 5
+[17-Jul-2023 12:46:58 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\backend\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\backend\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\backend\index.php on line 5
+[17-Jul-2023 12:47:51 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:47:55 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:47:56 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:47:56 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:48:26 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:48:28 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:48:29 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:48:29 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:48:38 America/Sao_Paulo] PHP Warning:  Undefined array key "public_classes" in C:\wamp64\www\e_commerce\index.php on line 5
+[17-Jul-2023 12:48:38 America/Sao_Paulo] PHP Stack trace:
+[17-Jul-2023 12:48:38 America/Sao_Paulo] PHP   1. {main}() C:\wamp64\www\e_commerce\index.php:0
+[17-Jul-2023 12:48:38 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\wamp64\www\e_commerce\index.php:5
+Stack trace:
+#0 C:\wamp64\www\e_commerce\index.php(5): in_array('', NULL)
+#1 {main}
+  thrown in C:\wamp64\www\e_commerce\index.php on line 5
